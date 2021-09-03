@@ -1,4 +1,4 @@
-<h1 align="center">Triage Project</h1>
+<h1 align="center">Triage Manager</h1>
 
 
 ### Application to manage triage in a hospital
