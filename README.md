@@ -1,7 +1,5 @@
 <h1 align="center">Triage Project</h1>
-<p align="center">
-  <img src="https://i.ibb.co/LSzdLqk/Screen-Shot-2021-08-13-at-2-54-33-AM.png" width="300" alt="TRIAGE LOGO" />
-</p>
+
 
 ### Application to manage triage in a hospital
 
